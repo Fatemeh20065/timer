@@ -1,0 +1,8 @@
+D:\New folder\timer\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+D:\New folder\timer\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+D:\New folder\timer\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+D:\New folder\timer\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+D:\New folder\timer\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+D:\New folder\timer\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+D:\New folder\timer\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\New folder\timer\WindowsFormsApplication10\obj\Debug\timer.csproj.GenerateResource.Cache
